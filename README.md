@@ -13,7 +13,7 @@ example configs and a `.gitignore`. Then copy `config/config.example.yaml` to
 
 The formula installs the core CLI. The optional extras (`bedrock`, `vertex`,
 `litellm`, `mcp`) are not included; for those, use
-`pipx install "policyforge[mcp] @ git+https://github.com/rdazzlebot/policyforge@v1.2.0"`.
+`pipx install "policyforge[mcp] @ git+https://github.com/rdazzlebot/policyforge@v1.2.1"`.
 
 ## Updating the formula
 

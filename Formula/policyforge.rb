@@ -3,8 +3,8 @@ class Policyforge < Formula
 
   desc "Generate cross-mapped security policies from NIST 800-53, FedRAMP and HIPAA"
   homepage "https://github.com/rdazzlebot/policyforge"
-  url "https://github.com/rdazzlebot/policyforge/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "12805a818f8f79ed8cca5618b6f3233af94322397de880b63777756d5f55e3c0"
+  url "https://github.com/rdazzlebot/policyforge/archive/refs/tags/v1.2.1.tar.gz"
+  sha256 "4fa9a06ccb2340fb6cbe3ba59ce7c0fcaf6a3e9044935660942777da6c0fb1a0"
   license "Apache-2.0"
 
   depends_on "rust" => :build
