@@ -2,9 +2,9 @@ class Policyforge < Formula
   include Language::Python::Virtualenv
 
   desc "Generate cross-mapped security policies from NIST 800-53, FedRAMP and HIPAA"
-  homepage "https://github.com/rdazzlebot/policyforge"
-  url "https://github.com/rdazzlebot/policyforge/archive/refs/tags/v1.6.0.tar.gz"
-  sha256 "cec14fbdbef910516b0f250ec5c978ec1a5f00242d0da5459d8903008a0071ab"
+  homepage "https://github.com/rdazzleman/policyforge"
+  url "https://github.com/rdazzleman/policyforge/archive/refs/tags/v1.6.1.tar.gz"
+  sha256 "16e333edcfe19e05787c2d118918c22590fd1740762d420a8df5bb067c7ed844"
   license "Apache-2.0"
 
   depends_on "rust" => :build
